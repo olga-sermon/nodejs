@@ -1,0 +1,20 @@
+{
+  "name": "node-examples",
+  "version": "1.0.0",
+  "description": "first try",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olga-sermon/nodejs.git"
+  },
+  "author": "osermon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olga-sermon/nodejs/issues"
+  },
+  "homepage": "https://github.com/olga-sermon/nodejs#readme"
+}
